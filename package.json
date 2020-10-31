@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Surabhi2481/Notes-App#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "validator": "^13.1.17"
   }
 }
